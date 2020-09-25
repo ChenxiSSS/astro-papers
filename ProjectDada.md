@@ -13,5 +13,5 @@ Gas clumping reference:
 
 Main refernce:
 * Gu et al. 2009: [A Chandra Study of Temperature Substructures in Intermediate-Redshift Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2009ApJ...700.1161G/abstract)
-* Zhuravleva et al. 2015: [Gas density fluctuations in the Perseus Cluster: clumping factor and velocity power spectrum](https://u↷
+* Zhuravleva et al. 2015: [Gas density fluctuations in the Perseus Cluster: clumping factor and velocity power spectrum](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4184Z/abstract)
 
