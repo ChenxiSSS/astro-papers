@@ -15,3 +15,18 @@ Main refernce:
 * Gu et al. 2009: [A Chandra Study of Temperature Substructures in Intermediate-Redshift Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2009ApJ...700.1161G/abstract)
 * Zhuravleva et al. 2015: [Gas density fluctuations in the Perseus Cluster: clumping factor and velocity power spectrum](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.4184Z/abstract)
 
+AGN & ICM interaction:
+* Bruggen and Heinz 2007: [Simulating the AGN-ICM Interaction](https://ui.adsabs.harvard.edu/abs/2007hvcg.conf..187B/abstract)
+    * Notes: simulation of two mechanisms: metal transport and AGN jets
+* Zhang et al. 2018: [Generation of internal waves by buoyant bubbles in galaxy clusters and heating of intracluster medium](https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.4785Z/abstract)
+    * Notes: buoyant bubbles of relativistic plasma can emit internal waves if bubbles are substantially flattened. Authors performed 2D simulation
+* Cielo et al. 2018: [Feedback from reorienting AGN jets. I. Jet-ICM coupling, cavity properties and global energetics](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A..58C/abstract)
+    * Notes: 4 models for AGN feedback from re-orienting jets.
+* Yang et al. 2019: [The Impact of Radio AGN Bubble Composition on the Dynamics and Thermal Balance of the Intracluster Medium](https://ui.adsabs.harvard.edu/abs/2019ApJ...871....6Y/abstract)
+    * Notes: 3D simulations of CR-jet feedback
+* Bourne and Sijacki 2017: [AGN jet feedback on a moving mesh: cocoon inflation, gas flows and turbulence](https://ui.adsabs.harvard.edu/abs/2017MNRAS.472.4707B/abstract)
+    * Notes: ICM gas motions drive large-scale turbulence when combined with jet feedback
+* Planelles et al. 2014: [On the role of AGN feedback on the thermal and chemodynamical properties of the hot intracluster medium](https://ui.adsabs.harvard.edu/abs/2014MNRAS.438..195P/abstract)
+    * Notes: simulation including radiative cooling, star formation, metal enrichment and feedback from SN. Simulation showed different sources of energy feedback leave different imprints in the enrichment pattern of hot ICM
+* Werner et al. 2019: [Hot Atmospheres, Cold Gas, AGN Feedback and the Evolution of Early Type Galaxies: A Topical Perspective](https://ui.adsabs.harvard.edu/abs/2019SSRv..215....5W/abstract)
+    * Notes: talks about AGN and galactic atmosphere, not ICM, not sure it’s helpful
