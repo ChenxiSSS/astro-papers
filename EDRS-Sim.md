@@ -32,4 +32,5 @@ TBA
 * Hunter et al. 2012: [Little Things](https://ui.adsabs.harvard.edu/abs/2012AJ....144..134H/abstract)
 
 ### Section C - Halo & Galaxy Connection
-
+* Aversa et al. 2015: [Black Hole and Galaxy Coevolution from Continuity Equation and Abundance Matching](https://ui.adsabs.harvard.edu/abs/2015ApJ...810...74A/abstract)
+* Benson et al. 2000: [The nature of galaxy bias and clustering](https://ui.adsabs.harvard.edu/abs/2000MNRAS.311..793B/abstract)
