@@ -32,5 +32,11 @@ TBA
 * Hunter et al. 2012: [Little Things](https://ui.adsabs.harvard.edu/abs/2012AJ....144..134H/abstract)
 
 ### Section C - Halo & Galaxy Connection
-* Aversa et al. 2015: [Black Hole and Galaxy Coevolution from Continuity Equation and Abundance Matching](https://ui.adsabs.harvard.edu/abs/2015ApJ...810...74A/abstract)
 * Benson et al. 2000: [The nature of galaxy bias and clustering](https://ui.adsabs.harvard.edu/abs/2000MNRAS.311..793B/abstract)
+#### Abundance Matching
+* Aversa et al. 2015: [Black Hole and Galaxy Coevolution from Continuity Equation and Abundance Matching](https://ui.adsabs.harvard.edu/abs/2015ApJ...810...74A/abstract)
+#### HOD Method
+* Leauthaud et al. 2015: [The dark matter haloes of moderate luminosity X-ray AGN as determined from weak gravitational lensing and host stellar masses](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446.1874L/abstract)
+* Georgakakis et al. 2019: [Exploring the halo occupation of AGN using dark-matter cosmological simulations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487..275G/abstract)
+* Mandelbaum et al. 2009: [Halo masses for optically selected and for radio-loud AGN from clustering and galaxy-galaxy lensing](https://ui.adsabs.harvard.edu/abs/2009MNRAS.393..377M/abstract)
+* Smolčić et al. 2011: [On the occupation of X-ray-selected galaxy groups by radio active galactic nuclei since z = 1.3](https://ui.adsabs.harvard.edu/abs/2011MNRAS.416L..31S/abstract)
