@@ -67,4 +67,15 @@ TBA
 * Track more reference from Colafrancesco et al. 2015;
 * Magliocchetti et al. 2020: [The role of galaxy mass on AGN emission: a view from the VANDELS survey](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.3838M/abstract)
     * > The study is performed on 907 X-ray AGNs and 100 radio AGNs selected on the CDFS and UDS fields and makes use of new and ancillary data available to the VANDELS collaboration. Our results indicate that the mass of the host galaxy is a fundamental quantity that determines the level of AGN activity at the various wavelengths.
+
+#### AGN Duty Cycle
 * Track AGN duty cycle w/ dark matter halos;
+* Shankar et al. 2013: [Accretion-driven evolution of black holes: Eddington ratios, duty cycles and active galaxy fractions](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428..421S/abstract)
+* Shabala 2020: [10 - The duty cycle of radio galaxies and AGN feedback](https://www.cambridge.org/core/books/agn-feedback-in-galaxy-formation/the-duty-cycle-of-radio-galaxies-and-agn-feedback/C78EEB8F0F481AF343691663A12F2419)
+* Bîrzan wt al. 2013: [The duty cycle of the radio mode feedback](https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.201211864)
+* Delvecchio et al. 2020: [The Evolving AGN Duty Cycle in Galaxies Since z ∼ 3 as Encoded in the X-Ray Luminosity Function](https://ui.adsabs.harvard.edu/abs/2020ApJ...892...17D/abstract)
+* Shulevski et al. 2015: [AGN duty cycle estimates for the ultra-steep spectrum radio relic VLSS J1431.8+1331](https://ui.adsabs.harvard.edu/abs/2015A%26A...583A..89S/abstract)
+* Brienza et al. 2018: [Duty cycle of the radio galaxy B2 0258+35](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..45B/abstract)
+
+## Conference
+* [The Radio Universe @ Ger’s (wave)-length](https://www.astron.nl/gerfeest/programme.php)
