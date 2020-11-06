@@ -1,4 +1,4 @@
-### Xray paper
+### Xray Papers
 +--------------------+--------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |Refcode             |Authors                                                 |Title                                                                                       |
 |char                |char                                                    |char                                                                                        |
@@ -28,7 +28,7 @@
 2005MNRAS.360..782G  Georgantopoulos, I.; Georgakakis, A.; Koulouridis, E.    The XMM-Newton Needles in the Haystack Survey: the local X-ray luminosity function of `normal' galaxies
 2002A&A...386..472T  Trinchieri, G.; Goudfrooij, P.                           The peculiar small-scale X-ray morphology of NGC 5846 observed with Chandra
 
-### Case study
+### Case Studies
 +--------------------+--------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |Refcode             |Authors                                                 |Title                                                                                       |
 |char                |char                                                    |char                                                                                        |
