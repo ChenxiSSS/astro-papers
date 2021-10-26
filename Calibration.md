@@ -6,6 +6,7 @@
 * Dillon,+ 2020: [Redundant-baseline calibration of the hydrogen epoch of reionization array](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5840D)
 * Orosz,+ 2019: [Mitigating the effects of antenna-to-antenna variation on redundant-baseline calibration for 21 cm cosmology](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487..537O)
 * Noorishad,+ 2012: [Redundancy calibration of phased-array stations](https://ui.adsabs.harvard.edu/abs/2012A&A...545A.108N)
+* Liu,+ 2010: [Precision calibration of radio interferometers using redundant baselines](https://ui.adsabs.harvard.edu/abs/2010MNRAS.408.1029L)
 
 ## Unified or hybrid calibration
 * Byrne,+ 2021: [A unified calibration framework for 21 cm cosmology](https://ui.adsabs.harvard.edu/abs/2021MNRAS.503.2457B)
