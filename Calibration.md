@@ -21,3 +21,4 @@
 Context: general calibration review;
 * Liu,+ 2020: [Data Analysis for Precision 21 cm Cosmology](https://ui.adsabs.harvard.edu/abs/2020PASP..132f2001L)
 * Bernardi,+ 2019: [21 cm observations: calibration, strategies, observables](https://ui.adsabs.harvard.edu/abs/2019arXiv190911938B)
+* Rau,+ 2009: [Advances in Calibration and Imaging Techniques in Radio Interferometry](https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1472R)
