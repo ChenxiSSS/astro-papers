@@ -14,3 +14,4 @@
 ## Talks & Notes
 * Reinecke,+ 2013: [Libsharp - spherical harmonic transforms revisited](https://ui.adsabs.harvard.edu/abs/2013A&A...554A.112R)
 * Reinecke,+ 2011: [Libpsht - algorithms for efficient spherical harmonic transforms](https://ui.adsabs.harvard.edu/abs/2011A&A...526A.108R)
+* Górski,+ 2005: [HEALPix: A Framework for High-Resolution Discretization and Fast Analysis of Data Distributed on the Sphere](https://ui.adsabs.harvard.edu/abs/2005ApJ...622..759G)
