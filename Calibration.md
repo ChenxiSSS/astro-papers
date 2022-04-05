@@ -22,3 +22,9 @@ Context: general calibration review;
 * Liu,+ 2020: [Data Analysis for Precision 21 cm Cosmology](https://ui.adsabs.harvard.edu/abs/2020PASP..132f2001L)
 * Bernardi,+ 2019: [21 cm observations: calibration, strategies, observables](https://ui.adsabs.harvard.edu/abs/2019arXiv190911938B)
 * Rau,+ 2009: [Advances in Calibration and Imaging Techniques in Radio Interferometry](https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1472R)
+
+## RIME
+* Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. I. A full-sky Jones formalism](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.106S)
+* Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. II. Calibration and direction-dependent effects](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.107S)
+* Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. III. Addressing direction-dependent effects in 21 cm WSRT observations of 3C 147](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.108S)
+* Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. IV. A generalized tensor formalism](https://ui.adsabs.harvard.edu/abs/2011A&A...531A.159S)
