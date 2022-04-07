@@ -17,11 +17,12 @@
 * Li,+ 2018: [Comparing Redundant and Sky-model-based Interferometric Calibration: A First Look with Phase II of the MWA](https://ui.adsabs.harvard.edu/abs/2018ApJ...863..170L)
 * Joseph,+ 2018: [The Bias and Uncertainty of Redundant and Sky-based Calibration Under Realistic Sky and Telescope Conditions](https://ui.adsabs.harvard.edu/abs/2018AJ....156..285J)
 
-## Review
+## Review & Alike Papers
 Context: general calibration review;
 * Liu,+ 2020: [Data Analysis for Precision 21 cm Cosmology](https://ui.adsabs.harvard.edu/abs/2020PASP..132f2001L)
 * Bernardi,+ 2019: [21 cm observations: calibration, strategies, observables](https://ui.adsabs.harvard.edu/abs/2019arXiv190911938B)
 * Rau,+ 2009: [Advances in Calibration and Imaging Techniques in Radio Interferometry](https://ui.adsabs.harvard.edu/abs/2009IEEEP..97.1472R)
+* Wijnholds,+ 2010: [Calibration challenges for future radio telescopes](https://ui.adsabs.harvard.edu/abs/2010ISPM...27...30W)
 
 ## RIME
 * Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. I. A full-sky Jones formalism](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.106S)
