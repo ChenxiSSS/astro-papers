@@ -28,3 +28,4 @@ Context: general calibration review;
 * Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. II. Calibration and direction-dependent effects](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.107S)
 * Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. III. Addressing direction-dependent effects in 21 cm WSRT observations of 3C 147](https://ui.adsabs.harvard.edu/abs/2011A&A...527A.108S)
 * Smirnov,+ 2011: [Revisiting the radio interferometer measurement equation. IV. A generalized tensor formalism](https://ui.adsabs.harvard.edu/abs/2011A&A...531A.159S)
+* Smirnov,+ 2015: [Radio interferometric gain calibration as a complex optimization problem](https://ui.adsabs.harvard.edu/abs/2015MNRAS.449.2668S)
