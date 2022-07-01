@@ -16,12 +16,13 @@
 * Pacaud,+ 2016: [The XXL Survey. II. The bright cluster sample: catalogue and luminosity function](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...2P)
 * Giles,+ 2016: [The XXL Survey. III. Luminosity-temperature relation of the bright cluster sample](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...3G)
 * Lieu,+ 2016: [The XXL Survey . IV. Mass-temperature relation of the bright cluster sample](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...4L)
-* Fotopoulou,+ 2016: [The XXL Survey. VI. The 1000 brightest X-ray point sources](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...5F)
 * Mantz,+ 2014: [The XXL Survey. V. Detection of the Sunyaev-Zel'dovich Effect of the Redshift 1.9 Galaxy Cluster XLSSU J021744.1-034536 with CARMA](https://ui.adsabs.harvard.edu/abs/2014ApJ...794..157M)
+* Fotopoulou,+ 2016: [The XXL Survey. VI. The 1000 brightest X-ray point sources](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...5F)
 * Pompei,+ 2016: [The XXL Survey. VII. A supercluster of galaxies at z = 0.43](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...6P)
 * Adami,+ 2016: [The XXL Survey. VIII. MUSE characterisation of intracluster light in a z ~ 0.53 cluster of galaxies](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...7A)
 * Baran,+ 2016: [The XXL Survey. IX. Optical overdensity and radio continuum analysis of a supercluster at z = 0.43](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...8B)
 * Ziparo,+ 2016: [The XXL Survey. X. K-band luminosity - weak-lensing mass relation for groups and clusters of galaxies](https://ui.adsabs.harvard.edu/abs/2016A&A...592A...9Z)
+
 * Smolčić,+ 2016: [The XXL Survey. XI. ATCA 2.1 GHz continuum observations](https://ui.adsabs.harvard.edu/abs/2016A&A...592A..10S)
 * Koulouridis,+ 2016: [The XXL Survey. XII. Optical spectroscopy of X-ray-selected clusters and the frequency of AGN in superclusters](https://ui.adsabs.harvard.edu/abs/2016A&A...592A..11K)
 * Eckert,+ 2016: [The XXL Survey. XIII. Baryon content of the bright cluster sample](https://ui.adsabs.harvard.edu/abs/2016A&A...592A..12E)
@@ -30,6 +31,7 @@
 * Mantz,+ 2018: [The XXL Survey. XVII. X-ray and Sunyaev-Zel'dovich properties of the redshift 2.0 galaxy cluster XLSSC 122](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...2M)
 * Koulouridis,+ 2018: [The XXL Survey. XIX. A realistic population of simulated X-ray AGN: Comparison of models with observations](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...4K)
 * Adami,+ 2018: [The XXL Survey. XX. The 365 cluster catalogue](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...5A)
+
 * Guglielmo,+ 2018: [The XXL Survey: XXII. The XXL-North spectrophotometric sample and galaxy stellar mass function in X-ray detected groups and clusters](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...7G)
 * Farahi,+ 2018: [The XXL Survey: XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...8F)
 * Faccioli,+ 2018: [The XXL Survey. XXIV. The final detection pipeline](https://ui.adsabs.harvard.edu/abs/2018A&A...620A...9F)
@@ -38,6 +40,7 @@
 * Ricci,+ 2018: [The XXL Survey. XXVIII. Galaxy luminosity functions of the XXL-N clusters](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..13R)
 * Smolčić,+ 2018: [The XXL Survey. XXIX. GMRT 610 MHz continuum observations](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..14S)
 * Guglielmo,+ 2018: [The XXL Survey: XXX. Characterisation of the XLSSsC N01 supercluster and analysis of the galaxy stellar populations](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..15G)
+
 * Logan,+ 2018: [The XXL Survey: XXXIII. Chandra Constraints on the AGN Contamination of z > 1 XXL Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..18L)
 * Horellou,+ 2018: [The XXL Survey: XXXIV. Double irony in XXL-North. A tale of two radio galaxies in a supercluster at z = 0.14](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..19H)
 * Koulouridis,+ 2018: [The XXL Survey. XXXV. The role of cluster mass in AGN activity](https://ui.adsabs.harvard.edu/abs/2018A&A...620A..20K)
