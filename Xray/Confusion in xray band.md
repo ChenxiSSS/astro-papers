@@ -1,0 +1,2 @@
+- https://www.cosmos.esa.int/documents/332006/1402684/GLanzuisi_t.pdf
+- * Lanzuisi,+ 2017: [Surveys with Athena: results from detailed SIXTE simulations](https://ui.adsabs.harvard.edu/abs/2017xru..conf..127L)
