@@ -1,6 +1,7 @@
 # eROSITA cluster papers
 
 ## 2021-2022
+* Chiu,+ 2022: [Cosmological Constraints from Galaxy Clusters and Groups in the $eROSITA$ Final Equatorial Depth Survey](https://ui.adsabs.harvard.edu/abs/2022arXiv220712429C)
 * Liu,+ 2022: [The eROSITA Final Equatorial-Depth Survey (eFEDS). Catalog of galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022A&A...661A...2L)
 * Klein,+ 2022: [The eROSITA Final Equatorial-Depth Survey (eFEDS). Optical confirmation, redshifts, and properties of the cluster and group catalog](https://ui.adsabs.harvard.edu/abs/2022A&A...661A...4K)
 * Bahar,+ 2022: [The eROSITA Final Equatorial-Depth Survey (eFEDS). X-ray properties and scaling relations of galaxy clusters and groups](https://ui.adsabs.harvard.edu/abs/2022A&A...661A...7B)
