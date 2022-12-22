@@ -10,5 +10,6 @@ Reference to be organized:
 * Davies,+ 2022: [Improved treatments of the ionizing photon mean free path in seminumerical simulations of reionization](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1302D)
 * Mondal,+ 2018: [Towards simulating and quantifying the light-cone EoR 21-cm signal](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.1390M)
 
-Reviews:
+Reviews | some sections contain intro on models & simulations
 * Gnedin,+ 2022: [Modeling cosmic reionization](https://ui.adsabs.harvard.edu/abs/2022LRCA....8....3G)
+* Choudhury,+ 2022: [A short introduction to reionization physics](https://ui.adsabs.harvard.edu/abs/2022GReGr..54..102C)
