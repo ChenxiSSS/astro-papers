@@ -6,4 +6,6 @@ Reference to be organized:
 ## 21 cm signal simulation
 Reference to be organized:
 * Greig,+ 2022: [Generating extremely large-volume reionization simulations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.5588G)
-* Data access: https://bradgreig.github.io/large-volume-data/
+  * Data access: https://bradgreig.github.io/large-volume-data/
+* Mondal,+ 2018: [Towards simulating and quantifying the light-cone EoR 21-cm signal](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.1390M)
+
